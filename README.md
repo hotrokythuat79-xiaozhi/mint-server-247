@@ -73,10 +73,10 @@ git clone git@github.com:hotrokythuat79-xiaozhi/mint-server-247.git
 cd mint-server-247
 
 Cấp quyền:
-chmod +x mint-server-247-auto.sh
+chmod +x scripts/mint-server-247-auto.sh
 
 Chạy tối ưu:
-sudo ./mint-server-247-auto.sh
+sudo ./scripts/mint-server-247-auto.sh
 
 ---
 
